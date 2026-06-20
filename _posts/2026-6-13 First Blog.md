@@ -4,8 +4,6 @@ title: First Blog
 categories: Miscellaneous
 ---
 
-
-
 折腾了一阵，我的个人博客终于开通了。
 After some tinkering, my personal blog is finally up and running.
 
