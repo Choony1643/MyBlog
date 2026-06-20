@@ -7,7 +7,6 @@ categories: Miscellaneous
 折腾了一阵，我的个人博客终于开通了。
 After some tinkering, my personal blog is finally up and running.
 
-
 为什么突然想写博客？记录一下自己学过的看过的东西，不至于草草地度过太多的时间
 Why the sudden urge to start a blog? To document what I've learned and seen — so I don't let too much time slip by without anything to show for it.
 
