@@ -14,4 +14,4 @@ I work as an SAP Operations specialist at a trading company. My team is currentl
 I'm 25 years old, an outgoing person with a broad range of interests. In my free time, I practice calligraphy, enjoy city walks, and like to explore new things. Lately, I've been learning to play the electric guitar — it's challenging, but I believe consistent practice leads to progress.
 我今年25岁，性格外向，爱好广泛。闲暇时我喜欢练习书法、City Walk，也乐于探索新鲜事物。最近我在练习电吉他，虽然有些难，但我相信持续的练习会带来进步。
 
-![练习电吉他](/MyBlog/images/guitar.jpeg)
+![练习电吉他](/images/guitar.jpeg)
