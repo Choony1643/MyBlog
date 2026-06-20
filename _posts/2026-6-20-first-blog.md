@@ -3,6 +3,7 @@ layout: post
 title: First Blog
 categories: Miscellaneous
 ---
+## Finally——
 
 折腾了一阵，我的个人博客终于开通了。
 为什么突然想写博客？记录一下自己学过的看过的东西，不至于荒废和虚度太多光阴。

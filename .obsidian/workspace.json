@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "_posts/2026-6-20-first-blog.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2026-6-20-first-blog"
             }
           }
         ],
@@ -200,10 +200,11 @@
   },
   "active": "4a8325f88cadc318",
   "lastOpenFiles": [
-    "_posts/2019-7-27-super-long-article.md",
-    "images/guitar.jpeg",
     "_posts/2026-06-20-Brief-Introduction.md",
     "_posts/2026-6-20-first-blog.md",
+    "README.md",
+    "_posts/2019-7-27-super-long-article.md",
+    "images/guitar.jpeg",
     "images/guitar.md",
     "images/mobile-demo.png",
     "_posts/2019-7-28-super-short-article.md"
