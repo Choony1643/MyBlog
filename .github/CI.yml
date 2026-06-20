@@ -1,0 +1,29 @@
+name: CI
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Setup Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'
+          
+      - name: Install dependencies
+        run: bundle install
+        
+      - name: Build Jekyll site
+        run: bundle exec jekyll build
+        
+      - name: Check for broken links (可选)
+        run: |
+          gem install html-proofer
+          htmlproofer ./_site --disable-external
