@@ -185,8 +185,9 @@
   },
   "active": "6897ed66050d11c1",
   "lastOpenFiles": [
-    "_posts/2026-6-20-first-blog.md",
+    "{{.md",
     "_posts/2026-06-20-Brief-Introduction.md",
+    "_posts/2026-6-20-first-blog.md",
     "README.md",
     "_posts/2019-7-27-super-long-article.md",
     "images/guitar.jpeg",
